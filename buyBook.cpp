@@ -1,0 +1,6 @@
+class bidBook{
+    private:
+        
+    public:
+
+};
